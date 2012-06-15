@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SHA256.cl</file>
+    </qresource>
+</RCC>
